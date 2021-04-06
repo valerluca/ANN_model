@@ -1,2 +1,2 @@
 # ANN_model
-Code for ANN model
+Code for ANN models
